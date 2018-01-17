@@ -1,0 +1,14 @@
+{
+  "name": "test-semver",
+  "version": "1.0.0",
+  "description": "Some tests of semver regarding prereleases version",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "semver": "^5.5.0"
+  }
+}
