@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Testing how [npm semver](https://github.com/npm/node-semver) react regarding prerelease versions.
+Testing [npm semver](https://github.com/npm/node-semver) regarding prerelease versions.
 
 Results:
 
